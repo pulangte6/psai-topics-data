@@ -1,0 +1,749 @@
+{
+  "ver": "v12",
+  "topics": [
+    {
+      "title": "马斯克点赞的那条AIGC视频，到底是用什么做的",
+      "pillar": "热点干货",
+      "status": "待发布",
+      "planDate": "2026-08-09",
+      "celeb": true,
+      "note": "热点内容拆解：还原生产链路+工具"
+    },
+    {
+      "title": "DeepSeek V4-Flash突然涨价，OpenAI却免费切GPT-5.6 Luna还降80%：一涨一降的对称",
+      "pillar": "热点干货",
+      "status": "脚本中",
+      "planDate": "2026-08-11",
+      "celeb": true,
+      "note": "修正旧「互砍」误述，事实是一涨一降"
+    },
+    {
+      "title": "自动剪辑怎么弄：Seedance2.5/可灵3.0/MiniMax H3的自动能力到哪了",
+      "pillar": "工具实战",
+      "status": "脚本中",
+      "planDate": "2026-08-12",
+      "celeb": false,
+      "note": "工具能力干货落点 + 脚本已出(自动剪辑选题-脚本.md)"
+    },
+    {
+      "title": "Cursor 3发布：一个界面管所有智能体，本地云端无缝接力",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-13",
+      "celeb": false,
+      "note": "热点：统一智能体工作区/多仓库/从commit到PR"
+    },
+    {
+      "title": "中国开源模型两度戳破美股泡沫：DeepSeek R1(2025)和Kimi K3(2026)，梁文峰和杨植麟是两个人",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-14",
+      "celeb": true,
+      "note": "两主角分清，不张冠李戴"
+    },
+    {
+      "title": "Claude Opus 5降价50%：顶级模型变日常默认AI，意味着什么",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-15",
+      "celeb": false,
+      "note": "热点：Anthropic砍半定价，顶级模型基础化"
+    },
+    {
+      "title": "可灵3.0实测：中文剧情首选，最长2分钟，普通人做视频到哪了",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-08-16",
+      "celeb": false,
+      "note": "工具能力：中文剧情/长时长边界"
+    },
+    {
+      "title": "即梦Seedance2.5：30秒4K直出+3D白模，长叙事利器",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-08-17",
+      "celeb": false,
+      "note": "工具能力：长叙事/3D白模/绿幕参考"
+    },
+    {
+      "title": "Suno V5.5：用你自己的声音生成歌，还能训练你的曲风",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-08-18",
+      "celeb": false,
+      "note": "工具能力：Voices/Custom Models/My Taste"
+    },
+    {
+      "title": "Suno水印风波(8/7)：AI音乐要打标了，对创作者意味着啥",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-19",
+      "celeb": false,
+      "note": "热点：透明度工具+下载限制+版权争议"
+    },
+    {
+      "title": "OpenAI GPT-5.6 Luna免费+降价80%：奥尔特曼把免费用户喂饱了",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-20",
+      "celeb": true,
+      "note": "热点：免费默认模型+Think按钮+降价"
+    },
+    {
+      "title": "Kimi K3动摇华尔街：杨植麟凭2.8万亿参搅动估值",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-21",
+      "celeb": true,
+      "note": "热点：月之暗面/杨植麟/第二次DeepSeek时刻"
+    },
+    {
+      "title": "梁文峰 vs 杨植麟：中国大模型双雄，一个涨价一个戳泡沫",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-22",
+      "celeb": true,
+      "note": "人物盘点：DeepSeek与Kimi分清，不混淆"
+    },
+    {
+      "title": "国产模型「死亡地带」：性能不如DS或价格贵过DS就没活路",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-23",
+      "celeb": true,
+      "note": "宏观热点：中国模型占OpenRouter前十7席"
+    },
+    {
+      "title": "阿里Qwen3.8-Max发布：一个模型从空文件夹自主干完十几天的真实项目",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-24",
+      "celeb": true,
+      "note": "马云/阿里；震惊点：编程从写函数跃升到自主完成项目"
+    },
+    {
+      "title": "字节SeedRealtime全双工大模型上线豆包：实时音视频对话进日常App",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-25",
+      "celeb": true,
+      "note": "张一鸣/字节；对标GPT-Live"
+    },
+    {
+      "title": "谷歌AI巨震：Jeff Dean离职、Gemini换帅又延期，大厂为什么做不快AI",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-26",
+      "celeb": true,
+      "note": "震惊+名人：Jeff Dean/Hassabis/劈柴；立人设认知向"
+    },
+    {
+      "title": "马斯克把特斯拉转成物理AI：开放设计资料、工厂改机器人产线",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-27",
+      "celeb": true,
+      "note": "马斯克；震惊：Optimus年产100万台目标"
+    },
+    {
+      "title": "杨植麟拒苹果邀请回国做Kimi：他为什么坚定回来",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-28",
+      "celeb": true,
+      "note": "杨植麟(非梁文峰)；人物故事+他说的话"
+    },
+    {
+      "title": "DeepSeek/Kimi融资狂潮：梁文峰估值5000亿、杨植麟超募3倍",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-29",
+      "celeb": true,
+      "note": "震惊：资本用脚投票；梁文峰≠杨植麟"
+    },
+    {
+      "title": "Anthropic自研芯片：达里奥为什么给Claude自己造硬件",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-30",
+      "celeb": true,
+      "note": "达里奥/Anthropic；成本战延伸到硬件"
+    },
+    {
+      "title": "Meta推Muse Code编程智能体：扎克伯格低价挑战Codex",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-31",
+      "celeb": true,
+      "note": "扎克伯格；普通人学编程还值不值"
+    },
+    {
+      "title": "特斯拉车机双AI座舱：豆包陪聊+千问办事进中国车机",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-01",
+      "celeb": true,
+      "note": "马斯克/张一鸣/阿里；今日(8/9)新鲜事"
+    },
+    {
+      "title": "美国拟对闭源前沿模型发布前预审：开源闭源的分水岭",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-02",
+      "celeb": false,
+      "note": "合规：只讲开源闭源监管差异，不碰政治人物对骂"
+    },
+    {
+      "title": "MiniMax H3开源却把美欧英韩踢出授权区：好莱坞逼出来的地缘切割",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-03",
+      "celeb": false,
+      "note": "震惊事件：Open Weight非Open Source；主因好莱坞三大版权诉讼；只讲事实不站队"
+    },
+    {
+      "title": "字节训练10万亿参数大模型：张一鸣\"延迟满足\"不蒸馏，宁可短期落后",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-04",
+      "celeb": true,
+      "note": "震惊：国内已知最大参数盘子；张一鸣定调不做蒸馏走长期路线"
+    },
+    {
+      "title": "飞书并入豆包：十年独立业务被拆，字节All in AI办公",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-05",
+      "celeb": true,
+      "note": "震惊：梁汝波/赵祺组织重构；飞书产品并进豆包、GTM并进火山"
+    },
+    {
+      "title": "苹果AI接入千问：国行Siri终于\"能听懂中文\"，苹果+阿里联手",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-06",
+      "celeb": false,
+      "note": "震惊：8/8苹果官网确认Apple Intelligence集成阿里千问；中文能力质变"
+    },
+    {
+      "title": "阿里Wan 3.0公测：首个\"文档直接生成视频\"模型，0.3元/秒起",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-09-07",
+      "celeb": true,
+      "note": "能力边界：投PPT/PDF直接出30秒视频；阿里/马云"
+    },
+    {
+      "title": "谷歌确认训练Gemini 4：史上最大规模，预计年底硬刚OpenAI",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-08",
+      "celeb": true,
+      "note": "震惊：劈柴称最大训练run；Jeff Dean离职、Hassabis转主席、Kavukcuoglu接管"
+    },
+    {
+      "title": "Runway Gen-4：一张照片生成连贯全片，\"世界一致性\"破AI视频最大难题",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-09-09",
+      "celeb": true,
+      "note": "能力边界：角色/场景一致性、物理模拟；CEO Cristóbal Valenzuela"
+    },
+    {
+      "title": "Seedream 5.0 Pro：AI生图从\"画好看\"到\"会排版、圈哪改哪\"",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-09-10",
+      "celeb": false,
+      "note": "能力边界：图层拆分/信息图排版/点选精修；字节"
+    },
+    {
+      "title": "阿里Qwen App五大更新：千问变成\"轻量Agent\"，workspace助手分解目标",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-11",
+      "celeb": true,
+      "note": "阿里/马云；8/7五大功能全免费，抢入口"
+    },
+    {
+      "title": "小米挖走字节机器人大将，雷军悄悄All in具身智能",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-12",
+      "celeb": true,
+      "note": "震惊：8/7小米新设具身智能部，前字节SeedRobotics孔涛挂帅；雷军"
+    },
+    {
+      "title": "腾讯元宝上线Hy ASR 3.0：语音识别从逐字转写升级到\"懂语境\"，方言更准",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-13",
+      "celeb": true,
+      "note": "腾讯/马化腾：基于Hy3语义理解，WER中文3.34%；AI助手多模态补全"
+    },
+    {
+      "title": "腾讯云Agent Memory 2.0：团队协作记忆，导入GitHub自动生成Wiki和CodeGraph",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-09-14",
+      "celeb": false,
+      "note": "腾讯：长期记忆从个人扩到团队；开源80天Star破15000"
+    },
+    {
+      "title": "腾讯WorkBuddy混元Hy3限免延至8/31，还首发Agent评测论文拉高行业标尺",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-15",
+      "celeb": false,
+      "note": "腾讯AI办公价格战延续；WorkBuddy Bench覆盖Code/Web/Office，全量开源可审计"
+    },
+    {
+      "title": "OpenAI Sora 2将停服：最强AI视频模型之一9/24退场，资源转向企业与编程",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-16",
+      "celeb": true,
+      "note": "震惊：4/26关停Sora App，API 9/24 EOL；奥尔特曼把算力争给编程/企业"
+    },
+    {
+      "title": "Google Veo 3.1：原生4K+音视频同步，Sora退场后成AI视频新王",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-17",
+      "celeb": true,
+      "note": "谷歌/劈柴：原生音频+60秒一致性+免费档；能力边界"
+    },
+    {
+      "title": "Mistral发Shieldstral 3B开源安全审核：CEO称\"安全不该是少数公司特权\"",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-18",
+      "celeb": true,
+      "note": "震惊/价值观：Apache2.0全开源，单16GB GPU跑；Arthur Mensch"
+    },
+    {
+      "title": "Mistral Robostral Navigate：一只普通摄像头让机器人走遍陌生房间",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-09-19",
+      "celeb": false,
+      "note": "震惊：8B视觉语言模型登顶R2R-CE，比多摄方案高5.3点；Mistral"
+    },
+    {
+      "title": "Mistral Le Chat变Vibe：单一Agent跨办公+编程，还出VS Code扩展",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-09-20",
+      "celeb": false,
+      "note": "Mistral Medium 3.5默认，远端异步编程Agent；工具能力"
+    },
+    {
+      "title": "AI视频三国杀盘点：Sora退、Veo王、Runway稳，普通人该押哪个",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-21",
+      "celeb": false,
+      "note": "宏观盘点：Sora2/Veo3.1/Runway Gen-4能力边界对比，给普通人选型建议"
+    },
+    {
+      "title": "Perplexity把AI塞进Windows：每月200刀雇个会动鼠标的员工",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-22",
+      "celeb": true,
+      "note": "Aravind Srinivas；震惊：Perplexity Computer上Windows读本地文件控键鼠路由20+模型$200/月"
+    },
+    {
+      "title": "亚马逊起诉Perplexity败诉：AI替你下单终于合法了",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-23",
+      "celeb": false,
+      "note": "震惊/法律里程碑：8/5第九巡回推翻禁令，首例代表用户的AI agent能否合法访问网络平台裁决；只讲事实"
+    },
+    {
+      "title": "马斯克Grok 4.6下周发：1.5万亿参数点名要打Kimi K3",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-24",
+      "celeb": true,
+      "note": "马斯克；8/4 SpaceX财报会预告，Grok 4.7(2.1万亿)3-4周后、Grok 5年内；价格性能比优于Kimi K3"
+    },
+    {
+      "title": "Grok Imagine Image 2.0上线：马斯克生图冲到全球第二",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-09-25",
+      "celeb": true,
+      "note": "马斯克；8/8上线：专业图像编辑/局部修改/多参考图融合；Arena文生图+编辑综合全球第二"
+    },
+    {
+      "title": "百度文心免费登顶SuperCLUE：李彦宏的\"免费称王\"",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-26",
+      "celeb": true,
+      "note": "李彦宏；震惊：8/4文心助手97.62分第一，记忆100/数据处理98.86第一，完全免费不限量"
+    },
+    {
+      "title": "文心App搞多Agent群聊：AI自己拉群干活",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-27",
+      "celeb": true,
+      "note": "李彦宏；热点：文心App改版，多人多Agent群聊内测，同群调多个AI角色；百度AI办公入口"
+    },
+    {
+      "title": "Claude Code能跨窗口互聊了：达里奥的AI开发团队",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-28",
+      "celeb": true,
+      "note": "达里奥；震惊：8/8 Claude Code v2.1.224跨会话消息互通，多AI会话互发消息对齐进度"
+    },
+    {
+      "title": "Anthropic 8/14默认开Auto Mode：危险命令识别13.6%→89%",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-29",
+      "celeb": true,
+      "note": "达里奥；震惊/安全：默认权限改自动模式，AI分类器实时拦截不可逆命令"
+    },
+    {
+      "title": "Anthropic inference hooks：公司能在Claude看到prompt前先拦",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-09-30",
+      "celeb": true,
+      "note": "达里奥；企业安全：8/5企业版每条prompt先过公司安全服务器allow/deny再给Claude"
+    },
+    {
+      "title": "智谱GLM-5.3即将发布：万亿参数+史诗级plus，剑指全球前沿",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-01",
+      "celeb": true,
+      "note": "唐杰(智谱创始人)8/7-8/8确认；参数从7400亿跃升至万亿级，国产模型密集迭代"
+    },
+    {
+      "title": "智谱港股单日涨超16%：高盛上调收入预期35%",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-02",
+      "celeb": true,
+      "note": "震惊/资本：GLM-5.3预期催化，港股科技与美股半导体分化"
+    },
+    {
+      "title": "杨植麟Kimi K3开源48小时C端暂停订阅：算力逼近极限",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-03",
+      "celeb": true,
+      "note": "震惊事件：2.8T参数MoE开源即爆火，算力账单成IPO焦点"
+    },
+    {
+      "title": "杨植麟拒苹果邀请坚定回国：博导证实他想创业",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-04",
+      "celeb": true,
+      "note": "名人言论/人物故事：CMU博士博导证实，拒绝苹果橄榄枝回国做Kimi"
+    },
+    {
+      "title": "月之暗面股改冲刺港股IPO：半年估值43亿→500亿美元",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-05",
+      "celeb": true,
+      "note": "震惊/资本：杨植麟任董事长，K3催化，预计最早2027初挂牌"
+    },
+    {
+      "title": "马斯克Grok 5计划今年发：用SpaceX全量数据训练",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-06",
+      "celeb": true,
+      "note": "名人+技术：Grok 4.6(1.5万亿)将发，4.7(2.1万亿)几周后，5基于SpaceX数据"
+    },
+    {
+      "title": "马斯克暧昧开源：Grok 5或成xAI首个开放权重旗舰",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-07",
+      "celeb": true,
+      "note": "震惊/话题：10万亿参数若开源将改写格局，推理门槛成天然屏障"
+    },
+    {
+      "title": "黄仁勋Rubin Ultra砍HBM：384GB→192GB，全球内存股受挫",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-08",
+      "celeb": true,
+      "note": "震惊事件：8/7 HBM短缺下降配，仅长鑫拒降价幸免"
+    },
+    {
+      "title": "黄仁勋YC创业建议：与Altman等8位大佬同台聊AI创业",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-09",
+      "celeb": true,
+      "note": "名人言论：8/8 YC请黄仁勋等分享，给AI创业者忠告"
+    },
+    {
+      "title": "阶跃星辰STEPX智能体手机：姜大昕从零重写操作系统",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-10",
+      "celeb": true,
+      "note": "震惊：姜大昕(前微软副总裁)7月发全球首个大模型原生AI终端品牌，Step AOS从零重构，获L3最高认证"
+    },
+    {
+      "title": "阶跃星辰两条战略线：模型和手机都出海，主打语音模型",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-11",
+      "celeb": false,
+      "note": "姜大昕；8/5内部确立模型+终端双线，搭海外商业化团队，语音模型为主打"
+    },
+    {
+      "title": "百川联创全走只剩王小川：All in医疗AI的孤注一掷",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-12",
+      "celeb": true,
+      "note": "震惊：5位联创全离职，王小川独撑，放弃通用大模型押医疗；六小虎分化"
+    },
+    {
+      "title": "百川百小医+Baichuan-M4：医疗大模型把幻觉压到2.6%",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-13",
+      "celeb": true,
+      "note": "王小川；循证增强+M3 Plus证据锚定，幻觉率全球领先，海纳百川计划免费开放医疗API"
+    },
+    {
+      "title": "零一万物李开复：\"会议可以停\"，老板AI比CEO更懂公司",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-14",
+      "celeb": true,
+      "note": "名人言论：8/7李开复称AI员工占3/4时会议自然减少，老板AI从纪要发现问题"
+    },
+    {
+      "title": "零一万物对标Palantir：签约订单增3-4倍，一半在海外",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-15",
+      "celeb": true,
+      "note": "李开复；一号位AI(老板/销冠/投资官)，2027赴港IPO规划，订单破15亿"
+    },
+    {
+      "title": "讯飞星火刘庆峰：智医助理覆盖800+区县，修正203万病历",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-16",
+      "celeb": true,
+      "note": "刘庆峰；星火医疗V3.5 MedBench 98.9分，扎根教育/医疗/央国企，6万所学校"
+    },
+    {
+      "title": "Kimi K2 Thinking：杨植麟\"模型即Agent\"原生工具调用",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-17",
+      "celeb": true,
+      "note": "震惊：杨植麟万亿参数MoE，原生边思考边用工具，无干预300轮调用，HLE/BrowseComp SOTA"
+    },
+    {
+      "title": "AI六小虎分水岭：有人冲上市有人困在故事里",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-10-18",
+      "celeb": false,
+      "note": "宏观盘点：智谱(唐杰)/MiniMax/月之暗面(杨植麟)/阶跃(姜大昕)/百川(王小川)/零一(李开复)六条路线"
+    },
+    {
+      "title": "自动剪辑能做到什么程度：80%机械活它包了，但取代不了剪辑师",
+      "pillar": "工具实战",
+      "status": "脚本中",
+      "planDate": "2026-08-11",
+      "celeb": false,
+      "note": "能力边界框架：80%机械活(字幕95-97%/切条/去废片/横转竖/卡点)已可自动化，20%人把关(叙事节奏/钩子/情绪/人设/合规)不可替代；脚本已出(自动剪辑能力边界-脚本.md)，待录屏实测"
+    },
+    {
+      "title": "奥尔特曼的“甜甜圈”：OpenAI首款硬件曝光，无屏AI音箱2027上市",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-13",
+      "celeb": true,
+      "note": "热点(8/7彭博)：Jony Ive合作无屏圆环、300-400美元、配摄像头可动部件，定位AI优先计算机；苹果商业秘密诉讼阻截；AI入口从手机走向硬件"
+    },
+    {
+      "title": "美团发布CatPaw：外卖巨头的全场景AI Agent平台，要接管本地生活",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-14",
+      "celeb": false,
+      "note": "热点：美团全场景AI Agent平台CatPaw；AI从工具变办事员，本地生活服务自动化，普通人能拿来做什么"
+    },
+    {
+      "title": "腾讯下场具身智能：多款机器人基座模型+智能体，混元体系整合",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-15",
+      "celeb": true,
+      "note": "马化腾/腾讯：发布多款具身智能基座模型与智能体，整合混元研发体系；大厂从软件AI卷向机器人，普通人机会在哪"
+    },
+    {
+      "title": "ElevenLabs推出音乐微调API：用你的声音训练专属歌手，和Suno怎么选",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-08-16",
+      "celeb": false,
+      "note": "工具能力：Music Finetunes API + 开发者SDK更新；声音克隆授权与合规边界，对比Suno V5.5"
+    },
+    {
+      "title": "谷歌Earth AI上线一天就撤：连谷歌都会翻车的AI可靠性质疑",
+      "pillar": "政策认知",
+      "status": "灵感",
+      "planDate": "2026-08-17",
+      "celeb": false,
+      "note": "避坑/热点(8/3)：AI功能因传播错误信息上线一天即下架；真实可靠性大于炫技，讲AI幻觉的代价"
+    },
+    {
+      "title": "网信办清朗行动：24万条未标注AI视频被清，创作者不标就下架",
+      "pillar": "政策认知",
+      "status": "灵感",
+      "planDate": "2026-08-18",
+      "celeb": false,
+      "note": "合规热点：中央网信办未成年人保护专项行动，清理未标注短视频24.1万条、处置账号2.1万；抖音创作者必须标AI生成内容，否则限流下架"
+    },
+    {
+      "title": "Thinking Machines开源Inkling Small：1/4体积逼近前代，企业为何更爱小模型",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-19",
+      "celeb": true,
+      "note": "Mira Murati(前OpenAI)：开源小模型体积1/4性能接近前代；企业掌控数据/微调链路比追榜单更实用，小模型回归"
+    },
+    {
+      "title": "4000款新游戏靠AI做出来：普通人做游戏的时代来了",
+      "pillar": "搞钱案例",
+      "status": "灵感",
+      "planDate": "2026-08-20",
+      "celeb": false,
+      "note": "热点：TapTap 2026上半年5000款新游近10倍于去年同期，4000+借AI制作；AI把游戏制作门槛打到地上，独立开发者机会"
+    },
+    {
+      "title": "Codex 里怎么生成视频？Sora 用不了，可选项有哪些",
+      "pillar": "工具实战",
+      "status": "录制中",
+      "planDate": "2026-08-13",
+      "celeb": false,
+      "note": "工具能力边界：Codex不原生生成视频，需装skill/MCP(HyperFrames/ComfyUI/AnyCap)；Sora 4/26 App关、9/24 API关；替代Seedance/可灵/H3/Veo/Runway（已附录屏逐帧清单；录制素材包HTML已备齐，待实拍收音）"
+    },
+    {
+      "title": "奥尔特曼的GPT-6要来了？据报10万亿参数、8月发布，但只是爆料",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-21",
+      "celeb": true,
+      "note": "爆料(8/10 AIBase/新智元)：OpenAI代号Astra的GPT-6或于8月发布，参数或达10万亿(约GPT-4五倍)，年底或有更大模型Doug。⚠️消息源为爆料者ChrisGPT非官方，待OpenAI确认——正好讲怎么分辨AI新闻是事实还是传闻，不画饼"
+    },
+    {
+      "title": "Meta开源Muse Glimmer 30B：一张消费级显卡就能跑的本地Agent",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-08-22",
+      "celeb": true,
+      "note": "Meta开源30B Agent模型(Apache 2.0)，4bit量化仅24GB显存可在单张消费卡/Mac跑，专为本地常驻Agent设计(工具调用/多步推理/失败恢复)；普通人零成本跑强AI门槛再降一截"
+    },
+    {
+      "title": "中国模型包揽全球调用量前四：DeepSeek登顶、腾讯第二",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-23",
+      "celeb": false,
+      "note": "OpenRouter周榜(8/3-9)：全球大模型周调用69万亿Token，DeepSeek-V4-Flash登顶，腾讯Hy3第二、DeepSeek预览版第三、小米MiMo-V2.5第四；中国模型连续15周领先美国——国产从\"能打\"变\"被用得最多\""
+    },
+    {
+      "title": "微信朋友圈\"AI帮写\"灰度上线：你的社交文案被AI接管",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-24",
+      "celeb": false,
+      "note": "微信朋友圈灰度\"AI帮写\"小微：发图/文字时可唤出生成文案，识别图片、三风格(简洁/调侃/文艺)；AI从生产力工具渗进日常社交，普通人最先感知到的AI"
+    },
+    {
+      "title": "Anthropic让Claude Code默认开自动模式：它自己拦下89%危险命令",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-08-25",
+      "celeb": true,
+      "note": "Anthropic 8/14起Claude Code默认自动模式：实测拦下89%危险命令(人工仅13.6%)；AI代理从\"你审批\"走向\"它动手\"，对靠AI接活的人是效率也是风险，讲边界"
+    },
+    {
+      "title": "实时语音AI的延迟被砍没了：字节SeedRealtime、英伟达语音模型",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-08-26",
+      "celeb": false,
+      "note": "字节SeedRealtime原生音视频全双工(看听说一体，告别拼接式高延迟)；英伟达开源端到端语音对话模型NemotronLabsVoiceChat11B，单一网络替代ASR+LLM+TTS；实时翻译/虚拟陪伴/口播体验质变"
+    },
+    {
+      "title": "高盛：年底全球AI投资破万亿美元，但钱都花在\"卖水人\"身上",
+      "pillar": "政策认知",
+      "status": "灵感",
+      "planDate": "2026-08-27",
+      "celeb": false,
+      "note": "高盛预测2026年底全球AI投资1.019万亿美元(美国5810亿)；但钱大量流向芯片/算力\"卖水人\"，应用层回报未明——讲AI资本热潮里的真风险与普通人机会"
+    },
+    {
+      "title": "阿里千问开放平台上线：手机PC眼镜三端打通，一个入口办所有事",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-28",
+      "celeb": false,
+      "note": "阿里千问开放平台上线，手机/PC/AI眼镜三端接入，首批覆盖物流/房产/本地生活/理财/汽车等场景，对话式调用多服务商——AI从App孤岛走向\"一个入口办所有事\""
+    },
+    {
+      "title": "疑似OpenAI新图像模型mona-lisa：AI味更淡，但还爱乱加字",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-08-29",
+      "celeb": false,
+      "note": "Arena现神秘图像模型mona-lisa-1，经SynthID水印/命名风格普遍判属OpenAI，或为GPT Image 2后继；皮肤塑料感减轻更真实，但仍有噪声/块状伪影/爱加文字——讲AI制图最新水位与仍翻车的点"
+    }
+  ],
+  "scripts": [
+    {
+      "title": "马斯克点赞的那条AIGC视频，怎么做的",
+      "tpl": "D",
+      "hook": "马斯克点赞的AIGC视频怎么做的？",
+      "body": "0-3s 画外音：马斯克刚点赞了这条 AIGC 视频，一下火了。\n3-15s 钩子：火的不只是内容，是它「怎么做的」——今天拆给你看。\n15-40s 录屏/对比分屏：分步还原生产链路（用的什么工具/提示词/剪辑手法）。\n40-55s 干货：这套方法普通人能拿来干嘛，完整拆解清单我整理在评论区置顶了。"
+    },
+    {
+      "title": "自动剪辑怎么弄：Seedance2.5/可灵3.0/MiniMax H3的自动能力到哪了",
+      "tpl": "A",
+      "hook": "自动剪辑到哪了？三家实测",
+      "body": "0-3s 画外音：还在手动剪视频、拼镜头、对口型？这三家把自动剪辑卷到这一步了。\n3-15s 结论：它们抢的是「从一句话到一支成片」的活，不是剪辑师。\n15-40s 对比分屏：Seedance2.5(30秒+可控编辑)、可灵3.0(智能分镜+主体锁死)、MiniMax H3(指令式改镜头+开源)。\n40-55s 落点：要长故事选Seedance、要中文分镜选可灵、要改第二版选H3；完整对照表我整理在评论区置顶了。提醒：别做纯AI无观点模板片。"
+    },
+    {
+      "title": "Codex 里怎么生成视频？Sora 用不了，可选项有哪些",
+      "tpl": "A",
+      "hook": "Codex生成视频？Sora用不了",
+      "body": "0-3s 画外音：想在Codex里直接生成视频？先讲清它能不能、Sora还能不能用。\n3-15s 边界：Codex自己生成不了视频(跑GPT-5语言模型)，装HyperFrames/ComfyUI/AnyCap等skill后能调度视频模型出片。\n15-30s Sora：App和网页4/26已关、API 9/24关，基本用不了。\n30-50s 可选项：Seedance2.5(长叙事/可控编辑)、可灵3.0(中文分镜)、MiniMax H3(指令式改镜头/开源)、Veo 3.1(4K音画)、Runway Gen-4(世界一致性)。\n50-55s 落点：Codex靠挂件，Sora别等；完整对照表我整理在评论区置顶了。"
+    }
+  ],
+  "publishes": [
+    {
+      "topicId": "",
+      "date": "2026-08-06",
+      "views": 12800,
+      "comp": 36,
+      "inte": 4.2,
+      "fans": 86,
+      "save": 6.8,
+      "status": "已发布"
+    }
+  ]
+}
