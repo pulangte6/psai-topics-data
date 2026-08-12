@@ -1,5 +1,5 @@
 {
-  "ver": "v13",
+  "ver": "v14",
   "topics": [
     {
       "title": "马斯克点赞的那条AIGC视频，到底是用什么做的",
@@ -856,6 +856,134 @@
       "planDate": "2026-11-05",
       "celeb": false,
       "note": "宏观盘点：从年初预测看年底兑现，给普通人一份可对照的「自动办事」清单"
+    },
+    {
+      "title": "用AI做小红书图文矩阵：一个人管10个号还能变现的玩法",
+      "pillar": "搞钱案例",
+      "status": "灵感",
+      "planDate": "2026-11-06",
+      "celeb": false,
+      "note": "搞钱：矩阵号批量出图+引流+变现闭环"
+    },
+    {
+      "title": "接AI绘图商单：从闲鱼9.9到客单价3000的接单路径",
+      "pillar": "搞钱案例",
+      "status": "灵感",
+      "planDate": "2026-11-07",
+      "celeb": false,
+      "note": "搞钱：接单渠道/定价/作品集搭建"
+    },
+    {
+      "title": "帮本地商家做AI宣传片：县城短视频服务商的生意",
+      "pillar": "搞钱案例",
+      "status": "灵感",
+      "planDate": "2026-11-08",
+      "celeb": false,
+      "note": "搞钱：下沉市场AI视频服务刚需"
+    },
+    {
+      "title": "卖AI提示词模板包：电商平台上咒语这门小生意",
+      "pillar": "搞钱案例",
+      "status": "灵感",
+      "planDate": "2026-11-09",
+      "celeb": false,
+      "note": "搞钱：提示词资产化/虚拟商品"
+    },
+    {
+      "title": "用数字人做24小时无人直播：带货切片实测能跑通吗",
+      "pillar": "搞钱案例",
+      "status": "灵感",
+      "planDate": "2026-11-10",
+      "celeb": false,
+      "note": "搞钱：数字人直播合规与转化"
+    },
+    {
+      "title": "剪映AI成片 vs 即梦 vs 可灵：自媒体一键出片横评",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-11-11",
+      "celeb": false,
+      "note": "工具：三大一键出片能力实测对比"
+    },
+    {
+      "title": "本地部署Stable Diffusion：老显卡也能跑的极简方案",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-11-12",
+      "celeb": false,
+      "note": "工具：低门槛本地出图环境搭建"
+    },
+    {
+      "title": "用ComfyUI搭工作流：把重复出图变成一键流水线",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-11-13",
+      "celeb": false,
+      "note": "工具：节点工作流提效"
+    },
+    {
+      "title": "Cursor/Claude Code实战：让AI替你写完一个完整小项目",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-11-14",
+      "celeb": false,
+      "note": "工具：AI编程agent从0到上线"
+    },
+    {
+      "title": "把长视频自动拆成短视频：AI二创搬运的边界在哪",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-11-15",
+      "celeb": false,
+      "note": "工具：长转短+版权/原创度风险"
+    },
+    {
+      "title": "AI手机落地元年：端侧大模型到底能帮你干啥",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-11-16",
+      "celeb": false,
+      "note": "热点：端侧AI应用实景"
+    },
+    {
+      "title": "大模型幻觉被利用：警惕AI编造的权威引用和法条",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-11-17",
+      "celeb": false,
+      "note": "热点：AI造假/误导风险科普"
+    },
+    {
+      "title": "国内AI应用月活榜：谁在真正赚钱而不是烧钱",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-11-18",
+      "celeb": false,
+      "note": "热点：应用商业化数据盘点"
+    },
+    {
+      "title": "一人公司时代：AI让个体户产出超过小团队",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-11-19",
+      "celeb": false,
+      "note": "热点：AI放大个人生产力"
+    },
+    {
+      "title": "开源VS闭源再战：为什么小模型反而更香",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-11-20",
+      "celeb": false,
+      "note": "热点：模型路线之争"
+    },
+    {
+      "title": "AI生成内容必须标识：平台新规和处罚案例",
+      "pillar": "政策认知",
+      "status": "灵感",
+      "planDate": "2026-11-21",
+      "celeb": false,
+      "note": "政策：AIGC标识合规红线"
     }
   ],
   "scripts": [
