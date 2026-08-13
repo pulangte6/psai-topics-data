@@ -1,5 +1,5 @@
 {
-  "ver": "v14",
+  "ver": "v15",
   "topics": [
     {
       "title": "马斯克点赞的那条AIGC视频，到底是用什么做的",
@@ -984,6 +984,78 @@
       "planDate": "2026-11-21",
       "celeb": false,
       "note": "政策：AIGC标识合规红线"
+    },
+    {
+      "title": "DeepSeek V4 Pro正式版：1.6T MoE、Agent能力翻近4倍，定价¥3/6撕开价格锚点",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-11-22",
+      "celeb": true,
+      "note": "热点(梁文峰/幻方): 8/12上线正式版，同架构后训练让DeepSWE 12.8→62.7；输入¥3/百万token、输出¥6，约为Claude Fable5的1/57；官方预告将整体涨价。讲边界：便宜但Pro并发仅Flash五分之一，高并发业务仍选Flash。"
+    },
+    {
+      "title": "阿里Qwen3.8-2.4T-A95B开源权重：2.4T旗舰首次开放，普通人本地能跑吗",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-11-23",
+      "celeb": false,
+      "note": "热点(阿里通义千问/周靖人团队): 8/12开放权重，总参2.4T、激活95B、原生262K上下文可扩至1M，首次开源Qwen-Max级旗舰；思维链强制开启。边界：纯文本权重、经Unsloth压缩后仍需约410GB显存设备才能本地跑，不是普通电脑。"
+    },
+    {
+      "title": "马斯克Grok 4.6：追平GPT-5.6、价格砍半，强在知识弱在编程",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-11-24",
+      "celeb": true,
+      "note": "热点(马斯克/SpaceXAI): 8/12发布，AA智能指数61与GPT-5.6 Sol持平、低于Fable5 Max的62；定价$2/$6每M token约为竞品一半；强项知识工作(GDPVal/法律)、编程略弱。讲边界：综合未全面领先，别神化。"
+    },
+    {
+      "title": "LTX-2.5开源视频：6.8秒出10秒片、ComfyUI零日集成、16GB显存能跑",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-11-25",
+      "celeb": false,
+      "note": "工具实战: 8/11开源视频世界模型(22B)，官方称2×GB200上6.8秒生成10秒720p；原生多镜头、首发即进ComfyUI；最低16GB显存可跑。边界：年营收超1000万美元需买商业许可；盲测67%胜率为厂商自测、未独立验证。"
+    },
+    {
+      "title": "海外AIGC标识红线收紧：EU AI Act 8/2生效+Anthropic给Claude加C2PA水印",
+      "pillar": "政策认知",
+      "status": "灵感",
+      "planDate": "2026-11-26",
+      "celeb": false,
+      "note": "政策认知: EU《人工智能法案》8/2起Article50生效，AI生成内容须机器可读标记+水印，罚则最高€1500万或全球营业额3%；Anthropic 8/11确认全球给Claude文本加隐形水印、文件带C2PA元数据。做号/出海必看：AI内容标注不是可选项。"
+    },
+    {
+      "title": "编程Agent资本狂热：Lovable $400M/$13.3B(腾讯参投)、Cognition谈$40B",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-11-27",
+      "celeb": false,
+      "note": "热点(资本): 8/12 Lovable完成C轮$400M、估值$13.3B(较12月翻倍)，Menlo+欧盟基金领投、腾讯等新进；Cognition据报谈$40B估值融资(Devin)。讲边界：估值多为营收倍数下注、非业绩兑现；关联SpaceX 6月$60B收购Cursor。"
+    },
+    {
+      "title": "一天三家卷Agent长任务：DeepSeek/Qwen/Grok都把「干完一整件事」当卖点",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-11-28",
+      "celeb": false,
+      "note": "工具实战: 8/12-13 DeepSeek V4 Pro、Qwen3.8、Grok4.6几乎同发，共同点是长周期自主Agent(连续编程/跨天任务/自我验证)。普通人借力姿势：把'一句话到成片/成应用'交给Agent，但关键决策仍需人把关，别当甩手掌柜。"
+    },
+    {
+      "title": "一日三旗舰齐发说明什么：前沿模型比拼从「参数」转向「性价比+能干活」",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-11-29",
+      "celeb": false,
+      "note": "热点干货: 8/13单日DeepSeek/Qwen/Grok三旗舰更新，叙事从刷分转向价格锚点+Agent完成度(DeepSeek把旗舰拉到个位数元、Qwen开源权重、Grok砍半价)。给观众的结论：选型看任务性价比，不为峰值分数买单。"
+    },
+    {
+      "title": "顶级模型开源潮：Qwen/LTX把权重放上HuggingFace，本地跑顶级模型的真实门槛",
+      "pillar": "工具实战",
+      "status": "灵感",
+      "planDate": "2026-11-30",
+      "celeb": false,
+      "note": "工具实战: Qwen3.8-2.4T与LTX-2.5均开源权重，'自己电脑跑顶级模型'从噱头走近现实；但真实门槛在显存/许可(16GB起跳、商用超营收门槛需付费)。边界：开源≠免费商用，下载前看清许可证。"
     }
   ],
   "scripts": [
