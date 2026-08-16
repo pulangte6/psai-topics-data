@@ -1058,84 +1058,52 @@
       "note": "工具实战: Qwen3.8-2.4T与LTX-2.5均开源权重，'自己电脑跑顶级模型'从噱头走近现实；但真实门槛在显存/许可(16GB起跳、商用超营收门槛需付费)。边界：开源≠免费商用，下载前看清许可证。"
     },
     {
-      "title": "用AI做数学解题短视频：黑金红风+动态线段，一个人日更竞赛题",
-      "pillar": "搞钱案例",
-      "status": "灵感",
-      "planDate": "2026-12-01",
-      "celeb": false,
-      "note": "案例(本号打法): 黑金红风+动态解题线段+豆包TTS音画同步，免费短视频引流→付费专栏(9.9起)；避坑: 不得承诺提分/效果"
-    },
-    {
-      "title": "用AI做口播矩阵：一套脚本喂数字人，10个号同步发不重样",
-      "pillar": "搞钱案例",
-      "status": "灵感",
-      "planDate": "2026-12-03",
-      "celeb": false,
-      "note": "案例: 数字人+批量改写，矩阵号合规与去重；讲投入产出与限流风险"
-    },
-    {
-      "title": "卖AI工作流模板：把ComfyUI/Coze流水分成虚拟商品",
-      "pillar": "搞钱案例",
-      "status": "灵感",
-      "planDate": "2026-12-05",
-      "celeb": false,
-      "note": "搞钱: 工作流资产化/电商平台虚拟商品定价与交付"
-    },
-    {
-      "title": "帮实体店做AI探店视频：县城短视频服务商的月度套餐",
-      "pillar": "搞钱案例",
-      "status": "灵感",
-      "planDate": "2026-12-07",
-      "celeb": false,
-      "note": "搞钱: 下沉市场AI视频刚需，套餐设计与交付"
-    },
-    {
-      "title": "用AI写带货笔记：素人小红书号也能出单的模板",
-      "pillar": "搞钱案例",
-      "status": "灵感",
-      "planDate": "2026-12-09",
-      "celeb": false,
-      "note": "搞钱: 图文生成+选品+引流闭环"
-    },
-    {
-      "title": "平台AI视频审核红线：哪些画面一秒就下架",
-      "pillar": "政策认知",
-      "status": "灵感",
-      "planDate": "2026-12-11",
-      "celeb": false,
-      "note": "合规: 各平台对AI生成/换脸/虚假宣传的审核口径，给创作者一份避坑清单"
-    },
-    {
-      "title": "国内生成式AI服务管理办法更新：做号要过的几道合规关",
-      "pillar": "政策认知",
-      "status": "灵感",
-      "planDate": "2026-12-13",
-      "celeb": false,
-      "note": "合规: 备案/标识/内容安全最新要求，只讲条款事实不站队"
-    },
-    {
-      "title": "用AI把长文转口播视频：信息图自动成片实测",
-      "pillar": "工具实战",
-      "status": "灵感",
-      "planDate": "2026-12-15",
-      "celeb": false,
-      "note": "工具: 长文→分镜→信息图→配音→成片链路，给普通人提效实测"
-    },
-    {
-      "title": "Suno V5.5 vs Udio 2026：AI音乐到底谁家强",
-      "pillar": "工具实战",
-      "status": "灵感",
-      "planDate": "2026-12-17",
-      "celeb": false,
-      "note": "工具: 两款AI音乐能力边界对比，声音克隆授权与合规"
-    },
-    {
-      "title": "国产模型出海东南亚：中文能力变成一门生意",
+      "title": "阿里开源 Qwen3.8：第一次把 2.4 万亿参数的 Max 旗舰权重也放出来了",
       "pillar": "热点干货",
       "status": "灵感",
-      "planDate": "2026-12-19",
+      "planDate": "2026-08-20",
+      "celeb": true,
+      "note": "国产开源潮顶点：Qwen3.8-27B 可跑手机/消费级显卡，首次开放 2.4T-A95B Max 级权重；呼应上期视频"
+    },
+    {
+      "title": "DeepSeek V4 Pro 正式版 + Harness 开源：从卖模型杀到卖 Agent 基础设施，一天 7 万星",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-21",
+      "celeb": true,
+      "note": "Agent 能力大涨(DeepSWE 12.8→62.7)，开源一切皆插件的 Harness 框架(MIT)，GitHub 星数一日破 7 万"
+    },
+    {
+      "title": "Grok 4.6 追平 GPT-5.6，单任务成本却和 Kimi K3 持平：马斯克说客观第一",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-22",
+      "celeb": true,
+      "note": "Artificial Analysis 智能指数 61 与 GPT-5.6 Sol 并列；单任务成本 0.84 美元=Kimi K3；未涨价"
+    },
+    {
+      "title": "智谱 GLM-5.3：编程逼近 Claude Fable 5，顺手揪出潜伏 40 年的 DNS 漏洞",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-23",
       "celeb": false,
-      "note": "热点: 国产大模型借中文/多语能力出海东南亚，普通人机会与地缘边界"
+      "note": "CyberGym 漏洞推理超 Mythos 5，发现 40 余年历史 DNS 协议漏洞；两周内开放权重"
+    },
+    {
+      "title": "国产大模型掀起开源潮，摩根士丹利：中美价差收窄，从价格战打到智力战",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-24",
+      "celeb": false,
+      "note": "Qwen/DeepSeek/Kimi/智谱轮番开源；中国 API 均价年涨 48%~80%，美国降价，差距收窄"
+    },
+    {
+      "title": "OpenAI 年化营收破 400 亿美元、年内二次换帅，明摆着冲 IPO",
+      "pillar": "热点干货",
+      "status": "灵感",
+      "planDate": "2026-08-25",
+      "celeb": true,
+      "note": "彭博：年化营收超 400 亿较去年翻倍，7 月环比+20%；任命新 CRO，原 CRO 任职不足一年离职"
     }
   ],
   "scripts": [
